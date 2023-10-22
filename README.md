@@ -10,3 +10,6 @@ I have documented my progress via several github commits , so the entire process
 
 ## Installation
 Press on the green code tab and pull from desired source using git clone 
+## Usage 
+## Credits
+## Liscence
