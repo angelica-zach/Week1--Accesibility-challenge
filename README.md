@@ -7,3 +7,6 @@ I have tried to condense the CSS down as much as possible aswell as making the c
 I have documented my progress via several github commits , so the entire process has been outlined.
 
 /Lastly, if your project is deployed, include a link to the deployed application here./
+
+## Installation
+Press on the green code tab and pull from desired source using git clone 
