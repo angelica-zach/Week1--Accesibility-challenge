@@ -6,7 +6,7 @@ Several problems existed in the code such as links not working and no alt descri
 I have tried to condense the CSS down as much as possible aswell as making the classes more semantic .
 I have documented my progress via several github commits , so the entire process has been outlined.
 
-/Lastly, if your project is deployed, include a link to the deployed application here./
+(https://angelica-zach.github.io/Week1--Accesibility-challenge/)
 
 ## Installation
 Press on the green code tab and pull from desired source using git clone 
