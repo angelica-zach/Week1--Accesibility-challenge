@@ -11,8 +11,8 @@ I have documented my progress via several github commits , so the entire process
 ## Installation
 Press on the green code tab and pull from desired source using git clone 
 ## Usage 
-As shown below, ![Alt text](assets/image/accesibility.png), Alt text is now visible when images are hovered over, making the site more accesibile to people who may be viually impared.
-Also ![semantics](assets/image/semantic.png), the classes have been chnaged to be more semantic.
+As shown below, ![Alt text](starter/assets/images/accesibility.png), Alt text is now visible when images are hovered over, making the site more accesibile to people who may be viually impared.
+Also ![semantics](starter/assets/images/semantic.png), the classes have been chnaged to be more semantic.
 ## Credits
 Although i have recieved no direct help on this project i would like to credit Harkpod-4 (my group) as well as tutor Bobbi for help with ansering my questions on css.
 ## Liscence
